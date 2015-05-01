@@ -29,3 +29,5 @@ percolate:synced-cron
 
 notorii:autoform-datetimepicker
 notorii:array
+sanjo:jasmine
+velocity:html-reporter
