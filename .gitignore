@@ -3,5 +3,5 @@ npm-debug.log
 
 1build
 
-*package-stubs.js
-*packageMocksSpec.js
+tests/jasmine/server/unit/package-stubs.js
+tests/jasmine/server/unit/packageMocksSpec.js
